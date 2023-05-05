@@ -18,7 +18,7 @@ stys fy
 ** Repo distant 
 ** 
 ** 
-** Ajout d'un repos distant:
+** Ajout d'un repos distant pour la premiere fois:
 ** 
 ** // git remote add origin http (lien sur git hub ( new repository tu prend le lien) tu colle apres)
 
@@ -28,3 +28,9 @@ stys fy
 ** 
 ** 
 ** Now vereification
+
+
+apres 
+
+git push
+
