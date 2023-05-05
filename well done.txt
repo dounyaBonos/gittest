@@ -1,23 +1,24 @@
-well done
+**sdcggcs
+** well done
+** 
+** now commands are :
+**    On local
+** 
+** git add .    ajouter tous les fichiers au stages
+** 
+** git commit -m "mon message"      commit
+** 
+** 
+** Repo distant 
+** 
+** 
+** Ajout d'un repos distant:
+** 
+** // git remote add origin http (lien sur git hub ( new repository tu prend le lien) tu colle apres)
 
-now commands are :
-   On local
-
-git add .    ajouter tous les fichiers au stages
-
-git commit -m "mon message"      commit
-
-
-Repo distant 
-
-
-Ajout d'un repos distant:
-
-git remote add origin http (lien sur git hub ( new repository tu prend le lien) tu colle apres)
-
-git branch -M main ou master cela depend l'app
-
-git push -uf origin main or master
-
-
-Now vereification
+** // git branch -M main ou master cela depend l'app
+** 
+** git push -uf origin main or master
+** 
+** 
+** Now vereification
