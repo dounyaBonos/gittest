@@ -1,2 +1,16 @@
 it's just the start
 pierre le mechant
+
+Merge
+
+---> Moi je fais :
+git checkout main
+git merge nomBranche
+
+git add .
+
+git commit -m "msg"
+
+git push origin main
+
+---> Lui vas faire
