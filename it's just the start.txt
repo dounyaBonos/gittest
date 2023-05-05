@@ -16,4 +16,4 @@ git push origin main
 ---> Lui vas faire
 on friday 05
 
--->finallement ,c'est mieux...le conflict...pour en discuter...
+-->finallement ,c'est mieux...le conflict...pour en discuter...super
